@@ -11,28 +11,14 @@ function curl($url, $post){
 }
 
 $baner ="
-        'dwoapfjsod`         `dwoapfjsod`
-    `xdwdsfasdfjaapz`       `dwdsfasdfjaapzx`     android-93dce2ba20d6335b
-  `wadladfladlafsozmm`     `wadladfladlafsozmm`   OS: Android 5.1.1
- `aodowpwafjwodisosoaas` `odowpwafjwodisosoaaso`  Device: SM-J320G (j3xlte)
- `adowofaowiefawodpmmxs` `dowofaowiefawodpmmxso`  ROM: LMY47V.J320GXXS0AQL2
- `asdjafoweiafdoafojffw` `sdjafoweiafdoafojffwq`  Baseband: unknown
-  `dasdfjalsdfjasdlfjdd` `asdfjalsdfjasdlfjdda`   Kernel: armv7l Linux 3.10.65-12227952
-   `dddwdsfasdfjaapzxaw` `ddwdsfasdfjaapzxawo`    Uptime: 4d 5h 55m
-     `dddwoapfjsowzocmw` `ddwoapfjsowzocmwp`      CPU: sc8830
-       `ddasowjfowiejao` `dasowjfowiejaow`        GPU: sc8830
-                                                  RAM: 979MiB / 1361MiB
-       `ddasowjfowiejao` `dasowjfowiejaow`
-     `dddwoapfjsowzocmw` `ddwoapfjsowzocmwp`
-   `dddwdsfasdfjaapzxaw` `ddwdsfasdfjaapzxawo`
-  `dasdfjalsdfjasdlfjdd` `asdfjalsdfjasdlfjdda`
- `asdjafoweiafdoafojffw` `sdjafoweiafdoafojffwq`
- `adowofaowiefawodpmmxs` `dowofaowiefawodpmmxso`
- `aodowpwafjwodisosoaas` `odowpwafjwodisosoaaso`
-   `wadladfladlafsozmm`     `wadladfladlafsozmm`
-     `dwdsfasdfjaapzx`       `dwdsfasdfjaapzx`
-        `woapfjsod`             `woapfjsod`";
-
+ /$$      /$$                  /$$$$$$  /$$   /$$ /$$$$$$$  /$$         /$$   /$$   /$$
+| $$$    /$$$                 /$$__  $$| $$  | $$| $$__  $$| $$       /$$$$  | $$$ | $$
+| $$$$  /$$$$  /$$$$$$       | $$  \__/| $$  | $$| $$  \ $$| $$      |_  $$  | $$$$| $$
+| $$ $$/$$ $$ /$$__  $$      | $$      | $$$$$$$$| $$$$$$$/| $$        | $$  | $$ $$ $$
+| $$  $$$| $$| $$  \__/      | $$      |_____  $$| $$____/ | $$        | $$  | $$  $$$$
+| $$\  $ | $$| $$            | $$    $$      | $$| $$      | $$        | $$  | $$\  $$$
+| $$ \/  | $$| $$            |  $$$$$$/      | $$| $$      | $$$$$$$$ /$$$$$$| $$ \  $$
+|__/     |__/|__/             \______/       |__/|__/      |________/|______/|__/  \__/";
 //ambil data login
 
 function login($user, $pass){
